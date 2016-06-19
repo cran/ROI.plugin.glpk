@@ -2,3 +2,7 @@ import("ROI")
 import("Rglpk")
 importFrom("methods", "getPackageName")
 importFrom("methods", "getFunction")
+importFrom("stats", "terms")
+S3method(".ROI_plugin_solution_dual", "glpk_solution")
+S3method(".ROI_plugin_solution_aux", "glpk_solution")
+
