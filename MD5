@@ -1,6 +1,6 @@
-490e023db0c0aa2993cbaf8ccaea8434 *DESCRIPTION
+946958940beed7607cd186984e306703 *DESCRIPTION
 5f13737e6c10c6aa930648291b86f08e *NAMESPACE
 36c97dd42070beac03cf721b0eaa5de0 *R/plugin.R
 eefadf3f01b3c3906755c6d235b43ec5 *R/zzz.R
 98ccf99fe9338ddda9bd5436bc49822f *tests/test_glpk.R
-393e2412e074ab41efa675f0db584603 *tests/test_glpk.Rout.save
+13cb15dbe1e9f8a5c8b6338e30bc1671 *tests/test_glpk.Rout.save
